@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vaibh
+ *
+ */
+module HospitalMAnagement {
+}
